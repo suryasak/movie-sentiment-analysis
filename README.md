@@ -240,20 +240,6 @@ All baseline models use TF-IDF vectorization for feature extraction.
 
 Model performance results and visualizations will be saved in the `results/` directory.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🙏 Acknowledgments
 
 - Hugging Face for providing the datasets library and IMDB dataset
@@ -262,6 +248,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Surya Saketh Akella
 **Last Updated**: 2024
 
